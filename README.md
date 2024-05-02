@@ -24,7 +24,7 @@ The data that was used in this project included a total count of fatalities, inj
 
 ## Methods
 
-In this data set I used various graphs, including line, bar, and maps, as well as two separate pivot tables to visualize the data that was pertinent to the project. I utilized slicers on both pivot tables to enable viewers to cut into the data and extract meaningful insights. To establish the correlation between the period between inspections and the fatality rate, I utilized a scatter plot for the two data sets which shows the values and compare them to the average value.
+In this data set I used various graphs, including line, bar, and maps, as well as two separate pivot tables to visualize the data that was pertinent to the project. I utilized slicers on both pivot tables to enable viewers to cut into the data and extract meaningful insights. Basic descriptive statistics were performed using Excels max, average, and sum functions. Charts showing the results were added to the data sets respective pivot table pages within the excel report. To establish the correlation between the period between inspections and the fatality rate, I utilized a scatter plot for the two data sets which shows the values and compare them to the average value.
 
 ![Screenshot 2024-05-02 183759](https://github.com/MStanfield1/State-and-Federal-Workplace-Incidents/assets/164048485/bb3f6903-a82e-4139-8f80-45dd0a43f7bd)
 
@@ -33,6 +33,9 @@ In this data set I used various graphs, including line, bar, and maps, as well a
 ## Results
 
 The results show that the total number of fatalities that occurred in both state and federal programs in 2012 was 4,617. The state with the largest fatality rate was Texas, having a federal program and 536 fatalities. The state with the lowest fatality rate was Rhode Island, also having a federal program and only 8 fatalities. The data also shows that there is no correlation between the years between inspection of facilities and the fatality rate.
+
+![Screenshot 2024-05-02 184718](https://github.com/MStanfield1/State-and-Federal-Workplace-Incidents/assets/164048485/6b40b5cf-f0da-4c40-b2f4-93192b59ff47)
+
 
 ## Conclusions
 
