@@ -22,6 +22,9 @@ My client proposed the question of which program, state or federal, had the most
 
 The data that was used in this project included a total count of fatalities, injuries, illnesses, and the monthly rate at which these incidents occurred. The data also shows which program, state or federal, and which geographical state the incidents occurred in. 
 
+![Screenshot 2024-05-02 185006](https://github.com/MStanfield1/State-and-Federal-Workplace-Incidents/assets/164048485/cb851f1e-27fc-4d18-a2f6-08199fabf2ae)
+
+
 ## Methods
 
 In this data set I used various graphs, including line, bar, and maps, as well as two separate pivot tables to visualize the data that was pertinent to the project. I utilized slicers on both pivot tables to enable viewers to cut into the data and extract meaningful insights. Basic descriptive statistics were performed using Excels max, average, and sum functions. Charts showing the results were added to the data sets respective pivot table pages within the excel report. To establish the correlation between the period between inspections and the fatality rate, I utilized a scatter plot for the two data sets which shows the values and compare them to the average value.
