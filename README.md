@@ -23,6 +23,10 @@ The data that was used in this project included a total count of fatalities, inj
 ## Methods
 
 In this data set I used various graphs, including line, bar, and maps, as well as two separate pivot tables to visualize the data that was pertinent to the project. I utilized slicers on both pivot tables to enable viewers to cut into the data and extract meaningful insights. To establish the correlation between the period between inspections and the fatality rate, I utilized a scatter plot for the two data sets which shows the values and compare them to the average value.
+![Screenshot 2024-04-30 190008](https://github.com/MStanfield1/State-and-Federal-Workplace-Incidents/assets/164048485/f43cad46-d526-48f4-8e07-3f80abdfe36f)
+![Screenshot 2024-05-02 183759](https://github.com/MStanfield1/State-and-Federal-Workplace-Incidents/assets/164048485/bb3f6903-a82e-4139-8f80-45dd0a43f7bd)
+
+
 
 ## Results
 
